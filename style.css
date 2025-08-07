@@ -1,5 +1,6 @@
 #galactice {
     font-size : 28px;
     font-family : Arial, sans-serif;
-    color: linear-gradient (90deg, #004dc9,#458af7);
+    background-color: linear-gradient (90deg, #004dc9,#458af7);
+    color: #a693fa;
     }
